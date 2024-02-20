@@ -1,0 +1,42 @@
+.hero {
+  background-color: #f8f9fa; /* Light gray background */
+  padding: 100px 0;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
+
+.section-heading {
+  margin-bottom: 30px;
+}
+
+.section-heading h2 {
+  font-size: 2.5rem;
+}
+
+.section-heading h3 {
+  font-size: 2rem;
+}
+
+.footer {
+  background-color: #343a40; /* Dark background */
+  color: #fff; /* Light text color */
+  padding: 20px 0;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+/* Page Indicator */
+.navbar .nav-item.active .nav-link {
+  background-color: #007bff;
+}
+body{
+  background-color: grey;
+}
